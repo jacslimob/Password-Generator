@@ -7,3 +7,4 @@ I noted in the files the places Dennis helped.
 IN doing the next Challenge I wished I hadn't used ChatGPT.
 Dennis let me know that ChatGpt is okay but doesn't always think of every senario.
 Overall I learned a lot from this Challenge that helped me with the Challenge for Module 4.
+![Alt text](<assets/img/Password Generator.png>)
