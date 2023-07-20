@@ -1,5 +1,5 @@
 # Password-Generator
-Module 3 Challenge
+# Module 3 Challenge
 Actually used ChatGPT to help me write code.
 I changed original code to add better functionality noted in the JavaScript and Css.
 Dennis Itua helped me understand every line of code. He was a tutor I got. He was also very helpful.]
